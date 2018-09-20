@@ -21,4 +21,5 @@ public class WebScraper {
         urlScanner.close();
         return contents;
     }
+
 }
